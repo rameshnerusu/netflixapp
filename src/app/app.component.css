@@ -1,0 +1,177 @@
+img {
+  height: 80px;
+  width: 300px;
+  /* padding-left: 140px; */
+}
+select {
+  padding: 8px 12px;
+  font-size: 13px;
+  margin-right: 30px;
+  border: 2px solid;
+  border-radius: 4px;
+  width: 100px;
+}
+.icon {
+  padding-left: 2px;
+  margin-top: 8px;
+}
+.button {
+  padding-right: 40px;
+  margin-right: 100px;
+  border: 2px solid;
+  font-size: 18px;
+}
+.header {
+  text-align: center;
+  margin-top: 170px;
+  color: white;
+}
+.input_email {
+  flex: 1; /* Take remaining space */
+  padding: 10px; /* Adjust padding as needed */
+  font-size: 20px; /* Adjust font size as needed */
+  margin-right: 10px;
+}
+.button_click {
+  padding: 14px; /* Adjust padding as needed */
+  font-size: 20px; /* Adjust font size as needed */
+  background-color: #dc3545; /* Adjust background color as needed */
+  color: white; /* Adjust text color as needed */
+  border: none;
+  cursor: pointer;
+}
+.main {
+  background-image: url(https://isquad.tv/wp-content/uploads/2018/08/Netflix-Background.jpg);
+
+  width: 100%;
+  height: 750px;
+}
+.slide1 {
+  padding-top: 40px;
+  background-image: url(https://images7.alphacoders.com/115/1152297.jpg);
+  color: white;
+}
+.box hr {
+  color: rgba(0, 0, 0, 0.245);
+}
+.matter h1 {
+  font-size: 50px;
+  padding-left: 30px;
+}
+.matter h5 {
+  font-size: 25px;
+  padding-left: 30px;
+}
+.tvimage img {
+  width: 600px;
+  height: 300px;
+}
+hr {
+  margin: 2px;
+  height: 2px;
+  background-color: rgba(0, 0, 0, 0.758);
+}
+.mobile img {
+  width: 600px;
+  height: 300px;
+  border-radius: 30px;
+}
+.matter1 h1 {
+  padding: 40px;
+  font-size: 60px;
+}
+.matter1 h6 {
+  font-size: 30px;
+  padding-left: 40px;
+}
+.slide2 {
+  padding-top: 40px;
+  background-image: url(https://images7.alphacoders.com/115/1152297.jpg);
+  color: white;
+}
+.images img {
+  width: 600px;
+  height: 300px;
+  border: 2px solid white;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+.matter2 h1 {
+  padding: 40px;
+  font-size: 40px;
+}
+.matter2 h6 {
+  font-size: 30px;
+  padding-left: 40px;
+}
+.slide3 {
+  padding-top: 40px;
+  background-image: url(https://images7.alphacoders.com/115/1152297.jpg);
+  color: white;
+}
+.matter3 img {
+  width: 600px;
+  height: 300px;
+  border-radius: 4px;
+}
+.children h1 {
+  font-size: 40px;
+  padding-top: 40px;
+}
+.children h6 {
+  font-size: 30px;
+}
+.slide4 {
+  padding-top: 20px;
+  background-image: url(https://images7.alphacoders.com/115/1152297.jpg);
+  color: white;
+}
+.slide5 {
+  background-image: url(https://images7.alphacoders.com/115/1152297.jpg);
+  color: white;
+  margin-bottom: 10px;
+}
+.slide5 h1 {
+  text-align: center;
+  font-size: 80px;
+}
+.accordion {
+  width: 1200px;
+  margin-left: 140px;
+  padding-top: 20px;
+}
+.accordion-item {
+  background-color: black;
+  color: white;
+  border: 2px solid white;
+}
+.accordion-header button {
+  background-color: black;
+  color: white;
+  border: 2px white;
+}
+.textmatter {
+  padding-left: 300px;
+  padding-top: 50px;
+}
+.email_address {
+  text-align: center;
+  padding-left: 450px;
+}
+.email_address input {
+  font-size: 30px;
+  margin-right: 20px;
+  border-radius: 6px;
+}
+.email_address button {
+  font-size: 30px;
+}
+.footericon i {
+  position: absolute;
+}
+.footer {
+  background-image: url(https://images7.alphacoders.com/115/1152297.jpg);
+  color: white;
+  padding-top: 80px;
+  padding-left: 60px;
+}
